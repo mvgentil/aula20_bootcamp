@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "aula20-bootcamp"
+version = "0.1.0"
+description = ""
+authors = ["Matheus Gentil <matheusvgentil@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pydantic = "^2.8.2"
+sqlalchemy = "^2.0.31"
+streamlit = "^1.37.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
