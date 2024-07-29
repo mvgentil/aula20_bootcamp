@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "aula20-bootcamp"
+name = "aula20bootcamp"
 version = "0.1.0"
 description = ""
 authors = ["Matheus Gentil <matheusvgentil@hotmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.12"
 pydantic = "^2.8.2"
 sqlalchemy = "^2.0.31"
 streamlit = "^1.37.0"
